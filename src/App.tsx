@@ -160,9 +160,17 @@ function App() {
                   <li>Administered and optimized Linux-based systems, adopting resource utilization strategies to improve system performance and dependability.</li>
                   <li>Actively contributed to creating internal knowledge base articles, sharing insights and best practices with the broader support team.</li>
                 </ul>
-                <div className="mt-6">
+                </div>
+                <div className="border-l-4 border-blue-600 pl-6">
+                <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start mb-2">
+                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Amazon</h3>
+                  <span className="text-sm text-gray-500 dark:text-gray-400">Aug 2019 - Sep 2020</span>
+                </div>
+                <div className="mb-4">
                   <h4 className="text-lg font-medium text-gray-800 dark:text-gray-200">Data Associate</h4>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">Full-time • 1 yr 2 mos • Aug 2019 - Sep 2020 • India</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">Permanent Full-time • 1 yr 2 mos • India</p>
+                </div>
+                <div className="mt-6">
                   <ul className="list-disc list-inside space-y-2 text-gray-600 dark:text-gray-300 mt-3">
                     <li>Conducted in-depth analysis of the Goal Success rate for the device, utilizing statistical methods and data visualization tools, including Excel, to assess data capture quality.</li>
                     <li>Implemented supervised machine learning algorithms to categorize extensive datasets, achieving a precision rate of 95% in data labeling.</li>
